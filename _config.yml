@@ -8,3 +8,11 @@ author: Shane Curcuru
 twitter:
   username: shanecurcuru
   card: summary
+
+defaults:
+    scope:
+      path: "monktoberfest"
+      type: "talks"
+    values:
+      layout: talks
+      comments: false
