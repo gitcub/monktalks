@@ -18,12 +18,12 @@ Past speakers at Monktoberfest have been so inspiring, I decided to make a list 
 
 Read an Stephen's recap of each conference, and see all the talks!
 
-- <a href="/monktoberfest/2019">2019 - Working With People</a>
-- <a href="/monktoberfest/2018">2018 - Useful Life Lessons</a>
-- <a href="/monktoberfest/2017">2017 - Data vs. Diversity</a>
-- <a href="/monktoberfest/2016">2016 - Beer and Society</a>
-- <a href="/monktoberfest/2015">2015 - Management, Homebrew, Interviews</a>
-- <a href="/monktoberfest/2014">2014 - Startups, Psychology</a>
-- <a href="/monktoberfest/2013">2013 - Social, Scaling, and Attendee Interviews</a>
-- <a href="/monktoberfest/2012">2012 - Open Source And Everything</a>
-- <a href="/monktoberfest/2011">2011 - Data, Technology, and Community</a>
+- <a href="monktoberfest/2019">2019 - Working With People</a>
+- <a href="monktoberfest/2018">2018 - Useful Life Lessons</a>
+- <a href="monktoberfest/2017">2017 - Data vs. Diversity</a>
+- <a href="monktoberfest/2016">2016 - Beer and Society</a>
+- <a href="monktoberfest/2015">2015 - Management, Homebrew, Interviews</a>
+- <a href="monktoberfest/2014">2014 - Startups, Psychology</a>
+- <a href="monktoberfest/2013">2013 - Social, Scaling, and Attendee Interviews</a>
+- <a href="monktoberfest/2012">2012 - Open Source And Everything</a>
+- <a href="monktoberfest/2011">2011 - Data, Technology, and Community</a>
