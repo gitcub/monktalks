@@ -4,5 +4,12 @@
 @import "{{ site.theme }}";
 
 .talktitle {
-    font-size: larger;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #d5000d;
+}
+
+.talk {
+    margin-bottom: 20px;
 }

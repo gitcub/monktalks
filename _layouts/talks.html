@@ -2,15 +2,19 @@
 layout: default
 ---
 
-<ul>
+{{ content }}
+
+<hr/>
+
+<div class="talks">
 {% for itm in site.data[page.datafile] %}
-  <li>
+  <div class="talk">
     <div class="talktitle">{{ itm.topic }}</div>
-    By: <span class="small">{{ itm.speaker }}</span> {% if itm.twitter %}<span class="small"><a href="https://twitter.com/{{ itm.twitter }}">@{{ itm.twitter }}</a></a></span>{% endif %}
+    <em>Speaker: </em>{{ itm.speaker }} {% if itm.twitter %}<span class="small"><a href="https://twitter.com/{{ itm.twitter }}">@{{ itm.twitter }}</a></a></span>{% endif %}
     <br/>
-    Watch: <a href="{{ itm.monkvideo }}">Monk Video</a> - <a href="{{ itm.video }}">YouTube</a>
+    <em>Video: </em>{% if itm.monkvideo %}<a href="{{ itm.monkvideo }}">Monk Video</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">YouTube</a>{% endif %}
     <br/>
     {{ itm.description }}
-  </li>
+  </div>
 {% endfor %}
-</ul>
+</div>

@@ -10,15 +10,20 @@ This site is open source, so if something's not quite right, [please help fix it
 
 The creator Stephen has a hard time [explaining Monktoberfest](https://redmonk.com/sogrady/2019/10/10/the-2019-monktoberfest/) himself, coming down to "look at the intersection of technology and the world around us – the good, the bad and the ugly".  I'd say it's "how technology shapes society - and how to help".
 
-Monktoberfest is a place you can find talks you won't find anywhere else - plus great food, a 100% great set of attendees, and of course the best food and beer of any tech conference ever.
+Monktoberfest is a place you can find talks you won't find anywhere else - plus a 100% great set of attendees, and the best food and beer of any tech conference *ever*.
 
 Past speakers at Monktoberfest have been so inspiring, I decided to make a list of all the speakers I could find videos for.  I hope you enjoy!
 
 ### All About Monktoberfest
 
-Read an overview and see the talks from:
+Read an Stephen's recap of each conference, and see all the talks!
 
-- 2019
-  - Theme
-- 2018
-  - Theme
+- <a href="/monktoberfest/2019">2019 - Working With People</a>
+- <a href="/monktoberfest/2018">2018 - Useful Life Lessons</a>
+- <a href="/monktoberfest/2017">2017 - Data vs. Diversity</a>
+- <a href="/monktoberfest/2016">2016 - Beer and Society</a>
+- <a href="/monktoberfest/2015">2015 - Management, Homebrew, Interviews</a>
+- <a href="/monktoberfest/2014">2014 - Startups, Psychology</a>
+- <a href="/monktoberfest/2013">2013 - Social, Scaling, and Attendee Interviews</a>
+- <a href="/monktoberfest/2012">2012 - Open Source And Everything</a>
+- <a href="/monktoberfest/2011">2011 - Data, Technology, and Community</a>
