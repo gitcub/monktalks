@@ -8,11 +8,12 @@ layout: default
 
 <div class="talks">
 {% for itm in site.data[page.datafile] %}
-  <div class="talk">
+  <div class="talk" id="{{ itm.id }}">
     <div class="talktitle">{{ itm.topic }}</div>
     <em>Speaker: </em>{{ itm.speaker }} {% if itm.twitter %}<span class="small"><a href="https://twitter.com/{{ itm.twitter }}">@{{ itm.twitter }}</a></a></span>{% endif %}
     <br/>
-    <em>Video: </em>{% if itm.monkvideo %}<a href="{{ itm.monkvideo }}">Monk Video</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">YouTube</a>{% endif %}
+    {% if itm.monkvideo %}<em>Video: </em> <a href="{{ itm.monkvideo }}">On Redmonk</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">On YouTube</a>{% endif %}
+    {% if itm.slides %}<em><a href="{{ itm.slides }}">Slides</a></em>{% endif %}
     <br/>
     {{ itm.description }}
   </div>
