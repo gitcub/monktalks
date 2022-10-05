@@ -2,19 +2,15 @@
 layout: default
 ---
 
-<ul class="posts">
+<ul>
 {% for itm in site.data[page.datafile] %}
-  <li class="post">
-    <div class="row">
-        <div class="col-sm-9">
-            <a href="{{ itm.monkvideo }}">{{ itm.topic }}</a>
-            <br/>
-            <span class="small">{{ itm.subject }}</span>
-        </div>
-        <div class="col-sm-3 date">
-            By: <span class="small">{{ itm.speaker }}</span> {{ itm.twitter }}
-        </div>
-    </div>
+  <li>
+    <div class="talktitle">{{ itm.topic }}</div>
+    By: <span class="small">{{ itm.speaker }}</span> {% if itm.twitter %}<span class="small"><a href="https://twitter.com/{{ itm.twitter }}">@{{ itm.twitter }}</a></a></span>{% endif %}
+    <br/>
+    Watch: <a href="{{ itm.monkvideo }}">Monk Video</a> - <a href="{{ itm.video }}">YouTube</a>
+    <br/>
+    {{ itm.description }}
   </li>
 {% endfor %}
-</ul><!-- posts -->
+</ul>
