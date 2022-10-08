@@ -18,6 +18,7 @@ Past speakers at Monktoberfest have been so inspiring, I decided to make a list 
 
 Read an Stephen's recap of each conference, and see all the talks!
 
+- <a href="monktoberfest/2022">2022 - Personal Stories</a>
 - <a href="monktoberfest/2019">2019 - Working With People</a>
 - <a href="monktoberfest/2018">2018 - Useful Life Lessons</a>
 - <a href="monktoberfest/2017">2017 - Data vs. Diversity</a>
