@@ -8,15 +8,13 @@ This site is open source, so if something's not quite right, [please help fix it
 
 ## What is Monktoberfest?
 
-The creator Stephen has a hard time [explaining Monktoberfest](https://redmonk.com/sogrady/2019/10/10/the-2019-monktoberfest/) himself, coming down to "look at the intersection of technology and the world around us – the good, the bad and the ugly".  I'd say it's "how technology shapes society - and how to help".
+The creator Stephen has a hard time [explaining Monktoberfest](https://redmonk.com/sogrady/2019/10/10/the-2019-monktoberfest/) himself, coming down to "look at the intersection of technology and the world around us – the good, the bad and the ugly".  I'd say Monktoberfest is about "how technology shapes society - and how to help".
 
 Monktoberfest is a place you can find talks you won't find anywhere else - plus a 100% great set of attendees, and the best food and beer of any tech conference *ever*.
 
-Past speakers at Monktoberfest have been so inspiring, I decided to make a list of all the speakers I could find videos for.  I hope you enjoy!
+Past speakers at Monktoberfest have been so inspiring, I decided to make a list of every talk I could find.  I hope you enjoy!
 
-### All About Monktoberfest
-
-Read an Stephen's recap of each conference, and see all the talks!
+### Monktoberfest Talks By Year
 
 - <a href="monktoberfest/2022">2022 - Personal Stories</a>
 - <a href="monktoberfest/2019">2019 - Working With People</a>
