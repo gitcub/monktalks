@@ -1,4 +1,4 @@
-﻿id,topic,speaker,twitter,tag,monkvideo,video,slides,description
+id,topic,speaker,twitter,tag,monkvideo,video,slides,description,threads
 adrianco,Chaos Engineering,Adrian Cockcroft,adrianco,complexity,https://redmonk.com/videos/chaos-engineering-adrian-cockcroft-monktoberfest-2018/,,https://github.com/adrianco/slides,Engineering at cloud scale: do you really know how to recover from failures?
 drkellyannfitz,Tales From the Post-Millennial Computer Science Classroom,KellyAnn Fitzpatrick,drkellyannfitz,teaching,https://redmonk.com/videos/tales-from-the-post-millennial-classroom-kellyann-fitzpatrick-monktoberfest-2018/,,,How Georgia Tech changed CS curriculum to meet modern students and needs.
 cecycorrea,Psychology of Fake News,Cecy Correa,cecycorrea,media,https://redmonk.com/videos/psychology-of-fake-news-and-what-tech-can-do-about-it-cecy-correa-monktoberfest-2018/,,https://speakerdeck.com/cecyc/monktoberfest-2018-psychology-of-fake-news,Fake News uses your emotions to short-circuit your brain: how to recognize this.
