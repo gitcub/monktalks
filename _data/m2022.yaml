@@ -1,0 +1,155 @@
+# Monktoberfest 2022 talks in YAML format
+---
+-
+  id: juliaferraioli
+  topic: Remember when we broke the internet?
+  speakers: 
+    - name: Julia Ferraioli
+      twitter: JuliaFerraioli
+    - name: Amanda Casari
+      twitter: AMcasari
+  tag: reliability
+  monkvideo: 
+  video: 
+  slides: https://docs.google.com/presentation/d/1JWzE92jykf7PwMFFCwzr4ok8A2bwKv8yHXvZ2uGy0bs/edit#slide=id.g1481648854d_0_5
+  description: Exploring how a handful of key open source projects ended up breaking the internet with surprising reasons (and solutions). Plus a sing-along.
+  threads: 
+    - https://twitter.com/webchick/status/1578031984139333632
+    - https://twitter.com/IAmJerdog/status/1578034551774814208
+-
+  id: circlejtp
+  topic: Tip Of The Pandemic
+  speakers: 
+    - name: JT Perry
+      twitter: CircleJTP
+  tag: healthcare
+  monkvideo: 
+  video: 
+  slides: 
+  description: Effects of the pandemic from a healthcare CIO perspective, plus some unexpected consequences with long structural effects.
+  threads: 
+    - https://twitter.com/webchick/status/1578039764187488262
+-
+  id: thestoutrunner
+  topic: Acid Rock Drainage (Nonprofits & Conservation)
+  speakers:
+    - name: Andrew Todd
+      twitter: TheStoutRunner
+  tag: conservation
+  monkvideo: 
+  video: 
+  slides: https://www.runningrivers.org/
+  description: Starting and fundraising for conservation nonprofits as a second job - and making it sustainable.
+  threads: 
+    - https://twitter.com/webchick/status/1578045617758248963
+-
+  id: missamarakay
+  topic: The Year Of No (And The Growth It Inspired)
+  speakers: 
+    - name: Amara Graham
+      twitter: MissAmaraKay
+  tag: careers
+  monkvideo: 
+  video: 
+  slides: 
+  description: "A talk about feelings and a mid-career journey of 'saying no' as the change to take charge of your professional direction."
+  threads: 
+    - https://twitter.com/webchick/status/1578085141720752131
+    - https://twitter.com/IAmJerdog/status/1578085357899350016
+    - https://twitter.com/wiredferret/status/1578085494273064961
+-
+  id: joeemison
+  topic: "Socially Acceptable Places To Live If You're In Tech"
+  speakers: 
+    - name: Joe Emison
+      twitter: JoeEmison
+  tag: hiring
+  monkvideo: 
+  video: 
+  slides: 
+  description: "A leader's journey to finding the perfect place to build a business - by considering needs of future employees."
+  threads: 
+    - https://twitter.com/webchick/status/1578096655663910912
+-
+  id: maggiefero
+  topic: "Corpora: Literal And Metaphorical"
+  speakers: 
+    - name: Margaret Fero
+      twitter: MaggieFero
+  tag: ethics
+  monkvideo: 
+  video: 
+  slides: 
+  description: "Notes from 'Bone Rooms' and AI Ethics: any learning system using a static corpus is already outdated."
+  threads: 
+    - https://twitter.com/webchick/status/1578104496072589313
+    - https://twitter.com/wiredferret/status/1578104202911485956
+-
+  id: anncerveny
+  topic: Everything You Want Is On The Other Side Of Admin Privileges
+  speakers: 
+    - name: Ann Cerveny
+      twitter: 
+  tag: careers
+  monkvideo: 
+  video: 
+  slides: 
+  description: "Breaking into tech later in a career: define yourself by where you want to go, don't let gatekeepers block you out."
+  threads: 
+    - https://twitter.com/webchick/status/1578118138599800849
+-
+  id: quinnypig
+  topic: The Art of Personal Failure
+  speakers: 
+    - name: Corey Quinn
+      twitter: QuinnyPig
+  tag: failure
+  monkvideo: 
+  video: 
+  slides: 
+  description: "A from the heart talk listing Corey's major failures: normalizing talking about getting fired helps all of us."
+  threads: 
+    - https://twitter.com/webchick/status/1578119002450440192
+    - https://twitter.com/wiredferret/status/1578118688062013454
+-
+  id: iamjerdog
+  topic: Mentorship, And Restarting Civilization From Scratch
+  speakers: 
+    - name: Jeremy Meiss
+      twitter: IAmJerdog
+  tag: mentoring
+  monkvideo: 
+  video: 
+  slides: 
+  description: All the important how-tos about mentoring (or being a mentee), and how important that relationship is for organizational knowledge.
+  threads: 
+    - https://twitter.com/webchick/status/1578396076901531650
+    - https://twitter.com/wiredferret/status/1578390027331158017
+-
+  id: rstephensme
+  topic: Introspection Gaps
+  speakers: 
+    - name: Rachel Stephens
+      twitter: RStephensMe
+  tag: communication
+  monkvideo: 
+  video: 
+  slides: 
+  description: "Kindness! Explore your feelings before being an asshole on the internet - or anywhere, really; if you are: apologize, duh."
+  threads: 
+    - https://twitter.com/webchick/status/1578396462425247744
+    - https://twitter.com/wiredferret/status/1578396414136262658
+-
+  id: bcantrill
+  topic: Coming Of Age in Technology
+  speakers: 
+    - name: Bryan Cantrill
+      twitter: BCantrill
+  tag: education
+  monkvideo: 
+  video: 
+  slides: 
+  description: "Improving educational systems to better recognize childrens' mental and emotional abilities."
+  threads: 
+    - https://twitter.com/webchick/status/1578405481554579457
+    - https://twitter.com/bcantrill/status/1505694855669813248

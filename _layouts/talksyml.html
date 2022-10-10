@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<hr/>
+
+<div class="talks">
+{% for itm in site.data[page.datafile] %}
+  <div class="talk" id="{{ itm.id }}">
+    <div class="talktitle">{{ itm.topic }}</div>
+    <div class="speakers">Speaker{% if itm.speakers.size > 1%}s{% endif %}:
+    {% for speaker in itm.speakers %}
+      {{ speaker.name }} {% if speaker.twitter %}<a class="twitter" href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>{% endif %}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+    </div>
+    <br/>
+    {% if itm.monkvideo %}<em>Watch Video: </em> <a href="{{ itm.monkvideo }}">On Redmonk</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">On YouTube</a>{% endif %}
+    {% if itm.slides %}<em><a href="{{ itm.slides }}">Slides</a></em>{% endif %}
+    <br/>
+    {{ itm.description }}
+  </div>
+{% endfor %}
+</div>
