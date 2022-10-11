@@ -14,6 +14,14 @@ layout: default
     {% for speaker in itm.speakers %}
       {{ speaker.name }} {% if speaker.twitter %}<a class="twitter" href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>{% endif %}{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
+    {% if site.data.speakeryears[itm.id] %}
+    <div class="speakeryears">
+      Speaking years: 
+      {% for year in site.data.speakeryears[itm.id] %}
+        <a href="/monktoberfest/{{ year }}#{{ itm.id }}">{{ year }}</a>{% if forloop.last %}{% else %},{% endif %}
+      {% endfor %}    
+    </div>
+    {% endif %}
     </div>
     {% if itm.monkvideo %}<div class="video"><em>Watch Video: </em> <a href="{{ itm.monkvideo }}">On Redmonk</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">On YouTube</a></div>{% endif %}
     {% if itm.slides %}<div class="slides"><em><a href="{{ itm.slides }}">Slides</a></em></div>{% endif %}
