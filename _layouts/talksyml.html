@@ -15,11 +15,10 @@ layout: default
       {{ speaker.name }} {% if speaker.twitter %}<a class="twitter" href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>{% endif %}{% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
     </div>
-    <br/>
-    {% if itm.monkvideo %}<em>Watch Video: </em> <a href="{{ itm.monkvideo }}">On Redmonk</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">On YouTube</a>{% endif %}
-    {% if itm.slides %}<em><a href="{{ itm.slides }}">Slides</a></em>{% endif %}
-    <br/>
-    {{ itm.description }}
+    {% if itm.monkvideo %}<div class="video"><em>Watch Video: </em> <a href="{{ itm.monkvideo }}">On Redmonk</a>{% endif %}{% if itm.video %}, <a href="{{ itm.video }}">On YouTube</a></div>{% endif %}
+    {% if itm.slides %}<div class="slides"></div><em><a href="{{ itm.slides }}">Slides</a></em></div>{% endif %}
+    {% if itm.threads %}<div class="tweets">Livetweets: {% for thread in itm.threads %}{% assign tokens = thread | split: "/" %}<a href="{{ thread }}">@{{ tokens[3] }}</a> {% endfor %}</div>{% endif %}
+    <div class="description">{{ itm.description }}</div>
   </div>
 {% endfor %}
 </div>
