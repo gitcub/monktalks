@@ -1,0 +1,148 @@
+# Monktoberfest 2019 talks in YAML format
+---
+-
+    id: abbyfuller
+    topic: Soft talks and Being Technical
+    speakers: 
+      - name: Abby Fuller
+        twitter: abbyfuller
+    tag: careers
+    monkvideo: https://redmonk.com/videos/abby-fuller-soft-talks-and-being-technical-monktoberfest-2019/
+    video: https://www.youtube.com/watch?v=cDgi4oaoIto&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=2
+    slides: 
+    description: Facing the difficulties for technical women getting credit they deserve.
+    threads:
+      - https://twitter.com/juliaferraioli/status/1179857247276601345
+      - https://twitter.com/MaggieFero/status/1179858243201503236
+-
+    id: crushgear
+    topic: "Management mistakes I've made... so you don't have to"
+    speakers:
+      - name: Steph Yiu
+        twitter: crushgear
+    tag: mentoring
+    monkvideo: https://redmonk.com/videos/management-mistakes-ive-made-so-you-dont-have-to/
+    video: https://www.youtube.com/watch?v=jYXX3QFgtYg&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=3
+    slides: https://stephyiu.com/2019/04/14/management-mistakes-ive-made/
+    description: How to be a better manager for your employees over the long haul.
+    threads:
+-
+    id: kohsukekawa
+    topic: My Personal Journey Around Diversity
+    speakers:
+    - name: Kohsuke Kawaguchi
+      twitter: kohsukekawa
+    tag: diversity
+    monkvideo: https://redmonk.com/videos/my-personal-journey-around-diversity/
+    video: https://www.youtube.com/watch?v=zKlbkZUGyk0&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=4
+    slides: 
+    description: Personal story of seeing the issues of diversity in the workplace.
+    threads:
+      - https://twitter.com/MaggieFero/status/1179814305811894279
+-
+    id: juliaferraioli
+    topic: Building Compassion
+    speakers:
+    - name: Julia Ferraioli
+      twitter: juliaferraioli
+    tag: accessibility
+    monkvideo: https://redmonk.com/videos/building-compassion/
+    video: https://www.youtube.com/watch?v=X6qOweQtqTg&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=5
+    slides: https://www.juliaferraioli.com/presos/building-compassion/
+    description: Accessibilty and social difficulties of those with hidden disabilities.
+    threads:
+      - https://twitter.com/MaggieFero/status/1180158254590111745
+-
+    id: jeremybowers
+    topic: The Data Is Made Out Of People!
+    speakers:
+    - name: Jeremy Bowers
+      twitter: jeremybowers
+    tag: visualizations
+    monkvideo: https://redmonk.com/videos/the-data-is-made-out-of-people/
+    video: https://www.youtube.com/watch?v=sn4T04fAmXU&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=6
+    slides: 
+    description: How presentation of journalistic charts can show - or lose - the humanity behind the data.
+    threads:
+      - https://twitter.com/MaggieFero/status/1180147998019510273
+-
+    id: skpodila
+    topic: Achieving Career Goals = Spider-folk
+    speakers: 
+    - name: Swarna Podila
+      twitter: skpodila
+    tag: careers
+    monkvideo: https://redmonk.com/videos/achieving-career-goals-is-a-lot-like-being-a-spider-person/
+    video: https://www.youtube.com/watch?v=nVVRnU76ZRE&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=7
+    slides: 
+    description: Managing your own career, no matter where you web-swing to.
+    threads:
+      - https://twitter.com/MaggieFero/status/1179842692769075203
+      - https://twitter.com/juliaferraioli/status/1179842759936610304
+-
+    id: alex_avritch
+    topic: How to get the right candidates to swipe right
+    speakers: 
+    - name: Alex Avritch
+      twitter: alex_avritch
+    tag: hiring
+    monkvideo: https://redmonk.com/videos/how-to-get-the-best-candidates-to-swipe-right/
+    video: https://www.youtube.com/watch?v=9Sw5FD_5XMc&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=8
+    slides: 
+    description: Wholistic approaches to ensuring your hiring presence is truly reflecting diverse candidates.
+    threads:
+      - https://twitter.com/MaggieFero/status/1180129124444229633
+-
+    id: hadleywickham
+    topic: Letter to a young maintainer
+    speakers: 
+    - name: Hadley Wickham
+      twitter: hadleywickham
+    tag: mentoring
+    monkvideo: https://redmonk.com/videos/hadley-wickham-letter-to-a-young-maintainer-monktoberfest-2019/
+    video: https://www.youtube.com/watch?v=1K7u5hkciLI&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=9
+    slides: 
+    description: Wholistic project and self-carer advice for a newcomer to open source.
+    threads:
+      - https://twitter.com/juliaferraioli/status/1179770558612934657
+      - https://twitter.com/MaggieFero/status/1179769620452040704
+-
+    id: mo_mack
+    topic: "Digital Discrimination: Cognitive Bias in Machine Learning"
+    speakers: 
+    - name: Maureen McElaney
+      twitter: Mo_Mack
+    tag: diversity
+    monkvideo: https://redmonk.com/videos/digital-discrimination-cognitive-bias-in-machine-learning/
+    video: https://www.youtube.com/watch?v=I7WCpVKYge0&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=10
+    slides: https://speakerdeck.com/mmcelaney/monktoberfest-2019-digital-discrimination-cognitive-bias-in-machine-learning
+    description: Reviewing the many layers of inputs to ML that can relfect hidden biases.
+    threads:
+      - https://twitter.com/juliaferraioli/status/1179819724672249857
+      - https://twitter.com/MaggieFero/status/1179820047377809408
+-
+    id: edasque
+    topic: "Mentorship: A tradition, right, and duty"
+    speakers: 
+    - name: Erik Dasque
+      twitter: edasque
+    tag: mentoring
+    monkvideo: https://redmonk.com/videos/mentorship-a-tradition-a-right-and-a-duty/
+    video: https://www.youtube.com/watch?v=KR_-2PHX5Qc&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=11
+    slides: https://www.dropbox.com/s/s1ufj20k2qigko8/Compagnonnage%20and%20Mentorship.pdf?dl=0
+    description: Comparing historical mentor/apprentice systems with modern mentoring.
+    threads:
+      - https://twitter.com/MaggieFero/status/1179784609732730888
+-
+    id: mkguliford
+    topic: Teaching for Knowledge
+    speakers: 
+      - name: Meg Gulifold
+        twitter: mkguliford
+    tag: mentoring
+    monkvideo: https://redmonk.com/videos/meg-guliford-teaching-for-knowledge-monktoberfest-2019/
+    video: https://www.youtube.com/watch?v=DU7hbviTUhQ&list=PLvsKqlNNP3R9ocsrWjj72_Xid-tiFvTt2&index=12
+    slides: 
+    description: On teaching and mentoring, and the process for learning knowledge from information.
+    threads:
+      - https://twitter.com/juliaferraioli/status/1179775458780553216
