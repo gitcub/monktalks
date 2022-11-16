@@ -9,7 +9,7 @@
     - name: Amanda Casari
       twitter: AMcasari
   tag: reliability
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/remember-when-we-broke-the-internet-julia-ferraioli-amanda-casari-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=uvdzTD6ZAlY
   slides: https://docs.google.com/presentation/d/1JWzE92jykf7PwMFFCwzr4ok8A2bwKv8yHXvZ2uGy0bs/edit#slide=id.g1481648854d_0_5
   description: Exploring how a handful of key open source projects ended up breaking the internet with surprising reasons (and solutions). Plus a sing-along.
@@ -23,7 +23,7 @@
     - name: JT Perry
       twitter: CircleJTP
   tag: healthcare
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/tip-of-the-pandemic-jt-perry-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=6iT_VyNGqwg
   slides: 
   description: Effects of the pandemic from a healthcare CIO perspective, plus some unexpected consequences with long structural effects.
@@ -36,7 +36,7 @@
     - name: Andrew Todd
       twitter: TheStoutRunner
   tag: conservation
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/acid-rock-drainage-andrew-todd-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=CRITEqtfU_U&list=PLvsKqlNNP3R88DaZq2eh-3aSLBqJ8ZA_a&index=6
   slides: https://www.runningrivers.org/
   description: Starting and fundraising for conservation nonprofits as a second job - and making it sustainable.
@@ -49,7 +49,7 @@
     - name: Amara Graham
       twitter: MissAmaraKay
   tag: careers
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/my-year-of-no-and-the-growth-it-inspired-amara-graham-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=ThLWAK30GiQ
   slides: 
   description: "A talk about feelings and a mid-career journey of 'saying no' as the change to take charge of your professional direction."
@@ -64,7 +64,7 @@
     - name: Joe Emison
       twitter: JoeEmison
   tag: hiring
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/why-we-choose-columbus-joe-emison-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=sJ4C8mDjUoo&list=PLvsKqlNNP3R88DaZq2eh-3aSLBqJ8ZA_a&index=5
   slides: 
   description: "A leader's journey to finding the perfect place to build a business - by considering needs of future employees."
@@ -77,7 +77,7 @@
     - name: Margaret Fero
       twitter: MaggieFero
   tag: ethics
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/corpora-literal-and-metaphorical-margaret-fero-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=SDpE1MalWKI
   slides: 
   description: "Notes from 'Bone Rooms' and AI Ethics: any learning system using a static corpus is already outdated."
@@ -91,7 +91,7 @@
     - name: Ann Cerveny
       twitter: 
   tag: careers
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/everything-you-want-is-on-the-other-side-of-admin-privileges-ann-cerveny-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=Mu0ZJPrdUtY
   slides: 
   description: "Breaking into tech later in a career: define yourself by where you want to go, don't let gatekeepers block you out."
@@ -104,7 +104,7 @@
     - name: Corey Quinn
       twitter: QuinnyPig
   tag: failure
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/the-art-of-personal-failure-corey-quinn-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=VGdNrewDw3M
   slides: 
   description: "A from the heart talk listing Corey's major failures: normalizing talking about getting fired helps all of us."
@@ -118,7 +118,7 @@
     - name: Jeremy Meiss
       twitter: IAmJerdog
   tag: mentoring
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/mentorship-and-restarting-civilization-from-scratch-jeremy-meiss-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=xWmvquul91g
   slides: 
   description: All the important how-tos about mentoring (or being a mentee), and how important that relationship is for organizational knowledge.
@@ -132,7 +132,7 @@
     - name: Rachel Stephens
       twitter: RStephensMe
   tag: communication
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/introspection-gaps-rachel-stephens-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=EaHs2tmiU9U
   slides: 
   description: "Kindness! Explore your feelings before being an asshole on the internet - or anywhere, really; if you are: apologize, duh."
@@ -146,7 +146,7 @@
     - name: Bryan Cantrill
       twitter: BCantrill
   tag: education
-  monkvideo: 
+  monkvideo: https://redmonk.com/videos/coming-of-age-bryan-cantrill-monktoberfest-2022/
   video: https://www.youtube.com/watch?v=VzdVSMRu16g
   slides: 
   description: "Improving educational systems to better recognize childrens' mental and emotional abilities."
